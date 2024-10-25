@@ -1,0 +1,86 @@
+competitorname,chocolate,fruity,caramel,peanutyalmondy,nougat,crispedricewafer,hard,bar,pluribus,sugarpercent,pricepercent,winpercent,fruit_carmel,value,necholcate,1chocolate,frt_car,rank
+100 Grand,1,0,1,0,0,1,0,1,0,0.73199999,0.86000001,66.971725,0,High_sugar,Yes,Yes,True,72.0
+3 Musketeers,1,0,0,0,1,0,0,1,0,0.60399997,0.51099998,67.602936,0,High_sugar,Yes,Yes,True,74.0
+One dime,0,0,0,0,0,0,0,0,0,0.011,0.116,32.261086,0,Low_sugar,No,NO,True,8.0
+One quarter,0,0,0,0,0,0,0,0,0,0.011,0.51099998,46.116505,0,Low_sugar,No,NO,True,38.0
+Air Heads,0,1,0,0,0,0,0,0,0,0.90600002,0.51099998,52.341465,0,High_sugar,No,NO,False,49.0
+Almond Joy,1,0,0,1,0,0,0,1,0,0.465,0.76700002,50.347546,0,Low_sugar,Yes,Yes,True,47.0
+Baby Ruth,1,0,1,1,1,0,0,1,0,0.60399997,0.76700002,56.914547,0,High_sugar,Yes,Yes,True,59.0
+Boston Baked Beans,0,0,0,1,0,0,0,0,1,0.31299999,0.51099998,23.417824,0,Low_sugar,No,NO,True,2.0
+Candy Corn,0,0,0,0,0,0,0,0,1,0.90600002,0.32499999,38.010963,0,High_sugar,No,NO,True,19.0
+Caramel Apple Pops,0,1,1,0,0,0,0,0,0,0.60399997,0.32499999,34.517681,1,High_sugar,No,NO,True,11.0
+Charleston Chew,1,0,0,0,1,0,0,1,0,0.60399997,0.51099998,38.975037,0,High_sugar,Yes,Yes,True,20.0
+Chewey Lemonhead Fruit Mix,0,1,0,0,0,0,0,0,1,0.73199999,0.51099998,36.017628,0,High_sugar,No,NO,False,15.0
+Chiclets,0,1,0,0,0,0,0,0,1,0.046,0.32499999,24.524988,0,Low_sugar,No,NO,False,3.0
+Dots,0,1,0,0,0,0,0,0,1,0.73199999,0.51099998,42.272076,0,High_sugar,No,NO,False,30.0
+Dum Dums,0,1,0,0,0,0,1,0,0,0.73199999,0.034000002,39.460556,0,High_sugar,No,NO,False,25.0
+Fruit Chews,0,1,0,0,0,0,0,0,1,0.127,0.034000002,43.088924,0,Low_sugar,No,NO,False,33.0
+Fun Dip,0,1,0,0,0,0,1,0,0,0.73199999,0.32499999,39.185505,0,High_sugar,No,NO,False,23.0
+Gobstopper,0,1,0,0,0,0,1,0,1,0.90600002,0.45300001,46.783348,0,High_sugar,No,NO,False,41.0
+Haribo Gold Bears,0,1,0,0,0,0,0,0,1,0.465,0.465,57.11974,0,Low_sugar,No,NO,False,60.0
+Haribo Happy Cola,0,0,0,0,0,0,0,0,1,0.465,0.465,34.158958,0,Low_sugar,No,NO,True,10.0
+Haribo Sour Bears,0,1,0,0,0,0,0,0,1,0.465,0.465,51.41243,0,Low_sugar,No,NO,False,48.0
+Haribo Twin Snakes,0,1,0,0,0,0,0,0,1,0.465,0.465,42.178772,0,Low_sugar,No,NO,False,29.0
+Hershey's Kisses,1,0,0,0,0,0,0,0,1,0.127,0.093000002,55.375454,0,Low_sugar,Yes,Yes,True,57.0
+Hershey's Krackel,1,0,0,0,0,1,0,1,0,0.43000001,0.91799998,62.284481,0,Low_sugar,Yes,Yes,True,66.0
+Hershey's Milk Chocolate,1,0,0,0,0,0,0,1,0,0.43000001,0.91799998,56.490501,0,Low_sugar,Yes,Yes,True,58.0
+Hershey's Special Dark,1,0,0,0,0,0,0,1,0,0.43000001,0.91799998,59.236122,0,Low_sugar,Yes,Yes,True,62.0
+Jawbusters,0,1,0,0,0,0,1,0,1,0.093000002,0.51099998,28.127439,0,Low_sugar,No,NO,False,5.0
+Junior Mints,1,0,0,0,0,0,0,0,1,0.197,0.51099998,57.21925,0,Low_sugar,Yes,Yes,True,61.0
+Kit Kat,1,0,0,0,0,1,0,1,0,0.31299999,0.51099998,76.7686,0,Low_sugar,Yes,Yes,True,82.0
+Laffy Taffy,0,1,0,0,0,0,0,0,0,0.22,0.116,41.389557,0,Low_sugar,No,NO,False,27.0
+Lemonhead,0,1,0,0,0,0,1,0,0,0.046,0.104,39.141056,0,Low_sugar,No,NO,False,22.0
+Lifesavers big ring gummies,0,1,0,0,0,0,0,0,0,0.26699999,0.27900001,52.911392,0,Low_sugar,No,NO,False,51.0
+Peanut butter M&M's,1,0,0,1,0,0,0,0,1,0.82499999,0.65100002,71.46505,0,High_sugar,Yes,Yes,True,77.0
+M&M's,1,0,0,0,0,0,0,0,1,0.82499999,0.65100002,66.574585,0,High_sugar,Yes,Yes,True,71.0
+Mike & Ike,0,1,0,0,0,0,0,0,1,0.87199998,0.32499999,46.411716,0,High_sugar,No,NO,False,40.0
+Milk Duds,1,0,1,0,0,0,0,0,1,0.30199999,0.51099998,55.064072,0,Low_sugar,Yes,Yes,True,54.0
+Milky Way,1,0,1,0,1,0,0,1,0,0.60399997,0.65100002,73.099556,0,High_sugar,Yes,Yes,True,79.0
+Milky Way Midnight,1,0,1,0,1,0,0,1,0,0.73199999,0.44100001,60.800701,0,High_sugar,Yes,Yes,True,65.0
+Milky Way Simply Caramel,1,0,1,0,0,0,0,1,0,0.96499997,0.86000001,64.35334,0,High_sugar,Yes,Yes,True,68.0
+Mounds,1,0,0,0,0,0,0,1,0,0.31299999,0.86000001,47.829754,0,Low_sugar,Yes,Yes,True,43.0
+Mr Good Bar,1,0,0,1,0,0,0,1,0,0.31299999,0.91799998,54.526451,0,Low_sugar,Yes,Yes,True,52.0
+Nerds,0,1,0,0,0,0,1,0,1,0.84799999,0.32499999,55.354046,0,High_sugar,No,NO,False,56.0
+Nestle Butterfinger,1,0,0,1,0,0,0,1,0,0.60399997,0.76700002,70.735641,0,High_sugar,Yes,Yes,True,76.0
+Nestle Crunch,1,0,0,0,0,1,0,1,0,0.31299999,0.76700002,66.47068,0,Low_sugar,Yes,Yes,True,70.0
+Nik L Nip,0,1,0,0,0,0,0,0,1,0.197,0.97600001,22.445341,0,Low_sugar,No,NO,False,1.0
+Now & Later,0,1,0,0,0,0,0,0,1,0.22,0.32499999,39.4468,0,Low_sugar,No,NO,False,24.0
+Payday,0,0,0,1,1,0,0,1,0,0.465,0.76700002,46.296597,0,Low_sugar,No,NO,True,39.0
+Peanut M&Ms,1,0,0,1,0,0,0,0,1,0.59299999,0.65100002,69.483788,0,High_sugar,Yes,Yes,True,75.0
+Pixie Sticks,0,0,0,0,0,0,0,0,1,0.093000002,0.023,37.722336,0,Low_sugar,No,NO,True,17.0
+Pop Rocks,0,1,0,0,0,0,1,0,1,0.60399997,0.83700001,41.265511,0,High_sugar,No,NO,False,26.0
+Red vines,0,1,0,0,0,0,0,0,1,0.58099997,0.116,37.348522,0,High_sugar,No,NO,False,16.0
+Reese's Miniatures,1,0,0,1,0,0,0,0,0,0.034000002,0.27900001,81.866257,0,Low_sugar,Yes,Yes,True,84.0
+Reese's Peanut Butter cup,1,0,0,1,0,0,0,0,0,0.72000003,0.65100002,84.18029,0,High_sugar,Yes,Yes,True,85.0
+Reese's pieces,1,0,0,1,0,0,0,0,1,0.40599999,0.65100002,73.43499,0,Low_sugar,Yes,Yes,True,80.0
+Reese's stuffed with pieces,1,0,0,1,0,0,0,0,0,0.98799998,0.65100002,72.887901,0,High_sugar,Yes,Yes,True,78.0
+Ring pop,0,1,0,0,0,0,1,0,0,0.73199999,0.96499997,35.290756,0,High_sugar,No,NO,False,14.0
+Rolo,1,0,1,0,0,0,0,0,1,0.86000001,0.86000001,65.716286,0,High_sugar,Yes,Yes,True,69.0
+Root Beer Barrels,0,0,0,0,0,0,1,0,1,0.73199999,0.068999998,29.703691,0,High_sugar,No,NO,True,6.0
+Runts,0,1,0,0,0,0,1,0,1,0.87199998,0.27900001,42.849144,0,High_sugar,No,NO,False,31.0
+Sixlets,1,0,0,0,0,0,0,0,1,0.22,0.081,34.722,0,Low_sugar,Yes,Yes,True,13.0
+Skittles original,0,1,0,0,0,0,0,0,1,0.94099998,0.22,63.08514,0,High_sugar,No,NO,False,67.0
+Skittles wildberry,0,1,0,0,0,0,0,0,1,0.94099998,0.22,55.103695,0,High_sugar,No,NO,False,55.0
+Nestle Smarties,1,0,0,0,0,0,0,0,1,0.26699999,0.97600001,37.887188,0,Low_sugar,Yes,Yes,True,18.0
+Smarties candy,0,1,0,0,0,0,1,0,1,0.26699999,0.116,45.995827,0,Low_sugar,No,NO,False,37.0
+Snickers,1,0,1,1,1,0,0,1,0,0.546,0.65100002,76.673782,0,High_sugar,Yes,Yes,True,81.0
+Snickers Crisper,1,0,1,1,0,1,0,1,0,0.60399997,0.65100002,59.529251,0,High_sugar,Yes,Yes,True,63.0
+Sour Patch Kids,0,1,0,0,0,0,0,0,1,0.068999998,0.116,59.863998,0,Low_sugar,No,NO,False,64.0
+Sour Patch Tricksters,0,1,0,0,0,0,0,0,1,0.068999998,0.116,52.825947,0,Low_sugar,No,NO,False,50.0
+Starburst,0,1,0,0,0,0,0,0,1,0.15099999,0.22,67.037628,0,Low_sugar,No,NO,False,73.0
+Strawberry bon bons,0,1,0,0,0,0,1,0,1,0.56900001,0.057999998,34.578991,0,High_sugar,No,NO,False,12.0
+Sugar Babies,0,0,1,0,0,0,0,0,1,0.96499997,0.76700002,33.43755,0,High_sugar,No,NO,True,9.0
+Sugar Daddy,0,0,1,0,0,0,0,0,0,0.41800001,0.32499999,32.230995,0,Low_sugar,No,NO,True,7.0
+Super Bubble,0,1,0,0,0,0,0,0,0,0.162,0.116,27.303865,0,Low_sugar,No,NO,False,4.0
+Swedish Fish,0,1,0,0,0,0,0,0,1,0.60399997,0.755,54.861111,0,High_sugar,No,NO,False,53.0
+Tootsie Pop,1,1,0,0,0,0,1,0,0,0.60399997,0.32499999,48.982651,0,High_sugar,Yes,Yes,False,44.0
+Tootsie Roll Juniors,1,0,0,0,0,0,0,0,0,0.31299999,0.51099998,43.068897,0,Low_sugar,Yes,Yes,True,32.0
+Tootsie Roll Midgies,1,0,0,0,0,0,0,0,1,0.17399999,0.011,45.736748,0,Low_sugar,Yes,Yes,True,36.0
+Tootsie Roll Snack Bars,1,0,0,0,0,0,0,1,0,0.465,0.32499999,49.653503,0,Low_sugar,Yes,Yes,True,46.0
+Trolli Sour Bites,0,1,0,0,0,0,0,0,1,0.31299999,0.255,47.173229,0,Low_sugar,No,NO,False,42.0
+Twix,1,0,1,0,0,1,0,1,0,0.546,0.90600002,81.642914,0,High_sugar,Yes,Yes,True,83.0
+Twizzlers,0,1,0,0,0,0,0,0,0,0.22,0.116,45.466282,0,Low_sugar,No,NO,False,35.0
+Warheads,0,1,0,0,0,0,1,0,0,0.093000002,0.116,39.011898,0,Low_sugar,No,NO,False,21.0
+Welch's Fruit Snacks,0,1,0,0,0,0,0,0,1,0.31299999,0.31299999,44.375519,0,Low_sugar,No,NO,False,34.0
+Werther's Original Caramel,0,0,1,0,0,0,1,0,0,0.186,0.26699999,41.904308,0,Low_sugar,No,NO,True,28.0
+Whoppers,1,0,0,0,0,1,0,0,1,0.87199998,0.84799999,49.524113,0,High_sugar,Yes,Yes,True,45.0
